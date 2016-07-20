@@ -2,6 +2,7 @@
     "name": "prappo/php-skype-client",
     "description": "PHP client for skype",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Prappo Prince",
